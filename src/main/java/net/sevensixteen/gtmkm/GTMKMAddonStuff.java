@@ -1,9 +1,11 @@
 package net.sevensixteen.gtmkm;
 
+import com.gregtechceu.gtceu.api.addon.GTAddon;
 import com.gregtechceu.gtceu.api.addon.IGTAddon;
 import net.sevensixteen.gtmkm.create.GTMKMCreateMachines;
 import net.sevensixteen.gtmkm.recipe.GTMKMRecipeTypes;
 
+@GTAddon
 public class GTMKMAddonStuff implements IGTAddon {
 
     @Override

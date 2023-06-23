@@ -33,7 +33,6 @@ import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(GregTechMoreKineticMachines.MODID)
-@GTAddon
 public class GregTechMoreKineticMachines {
 
     // Define mod id in a common place for everything to reference
