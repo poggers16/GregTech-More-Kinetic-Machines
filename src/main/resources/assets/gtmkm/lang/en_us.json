@@ -1,0 +1,22 @@
+{
+  "block.gtceu.lv_kinetic_chemical_reactor": "Basic Kinetic Chemical Reactor §r",
+  "block.gtceu.mv_kinetic_chemical_reactor": "§bAdvanced Kinetic Chemical Reactor §r",
+  "block.gtceu.hv_kinetic_chemical_reactor": "§6Advanced Kinetic Chemical Reactor II§r",
+  "block.gtceu.ev_kinetic_chemical_reactor": "§5Advanced Kinetic Chemical Reactor III§r",
+  "gtceu.kinetic_chemical_reactor": "Kinetic Chemical Reactor",
+  "block.gtceu.lv_kinetic_bender": "Basic Kinetic Bender §r",
+  "block.gtceu.mv_kinetic_bender": "§bAdvanced Kinetic Bender §r",
+  "block.gtceu.hv_kinetic_bender": "§6Advanced Kinetic Bender II§r",
+  "block.gtceu.ev_kinetic_bender": "§5Advanced Kinetic Bender III§r",
+  "gtceu.kinetic_bender": "Kinetic Bender",
+  "block.gtceu.lv_kinetic_macerator": "Basic Kinetic Macerator §r",
+  "block.gtceu.mv_kinetic_macerator": "§bAdvanced Kinetic Macerator §r",
+  "block.gtceu.hv_kinetic_macerator": "§6Advanced Kinetic Macerator II§r",
+  "block.gtceu.ev_kinetic_macerator": "§5Advanced Kinetic Macerator III§r",
+  "gtceu.kinetic_macerator": "Kinetic Macerator",
+  "block.gtceu.lv_kinetic_forge_hammer": "Basic Kinetic Forge Hammer §r",
+  "block.gtceu.mv_kinetic_forge_hammer": "§bAdvanced Kinetic Forge Hammer §r",
+  "block.gtceu.hv_kinetic_forge_hammer": "§6Advanced Kinetic Forge Hammer II§r",
+  "block.gtceu.ev_kinetic_forge_hammer": "§5Advanced Kinetic Forge Hammer III§r",
+  "gtceu.kinetic_forge_hammer": "Kinetic Forge Hammer"
+}

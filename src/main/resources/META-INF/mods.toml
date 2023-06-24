@@ -67,6 +67,6 @@ description='''
 [[dependencies.gtmkm]]
    modId="gtceu"
    mandatory=true
-   versionRange="1.0.4"
+   versionRange="1.0.5-build_19"
    ordering="NONE"
    side="BOTH"
